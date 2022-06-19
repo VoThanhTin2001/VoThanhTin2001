@@ -5,11 +5,18 @@
 
 - ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
 
-- 🌱 I’m currently learning **Wireshark.**
+- 🌱 I’m currently learning ****
 
 
 ## 📫 How to reach me:
-
+<td>
+      <p align="left">
+        <a href="https://www.messenger.com/t/100024163622231" alt="Messenger">   
+        <img src="https://media.giphy.com/media/fy8mDHil1yK1l0KmMN/giphy.gif" alt="textme" width="5%"/>
+        </a>
+      </p>
+    </td>
+    
 <p align="center">
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -29,7 +36,7 @@
 </p>
 
 ## Skills:
-<p align="center">
+<p align="center" >
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -37,19 +44,16 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
- 
 </p>
 
-<table style="width:100%;">
+<table style="width:200%; height:200%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="vothanhtin2001" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="vothanhtin2001" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="vothanhtin2001" width="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="vothanhtin2001" width="70%"/>
     </td>
     <td>
-      <p align="center"> 
-        <img src="https://media.giphy.com/media/fy8mDHil1yK1l0KmMN/giphy.gif" alt="" width="100%"/>
-      </p>
-    </td>
+      <p align="right"> 
+        <img src="https://media3.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" alt="dev" width="100%" height="100%" />
   </tr>
 </table>
