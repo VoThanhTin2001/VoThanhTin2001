@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Wireshark.**
 
 
 ## 📫 How to reach me:
