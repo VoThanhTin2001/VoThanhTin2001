@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **DevOps**
 
 
 ## 📫 How to reach me:
@@ -45,6 +45,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-dev-coding-and-development-flat-flat-juicy-fish.png"/>
 </p>
 
 <table style="width:200%; height:200%">
