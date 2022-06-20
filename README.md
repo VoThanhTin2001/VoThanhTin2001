@@ -44,6 +44,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
 </p>
 
 <table style="width:200%; height:200%">
