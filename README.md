@@ -18,7 +18,7 @@
     </td>
     
 <p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/tin-vo-thanh-3373a2200" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/real.vothanhtin" alt="Facebook">
