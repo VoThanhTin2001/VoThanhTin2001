@@ -50,8 +50,8 @@
 <table style="width:200%; height:200%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="vothanhtin2001" width="70%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="vothanhtin2001" width="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="vothanhtin2001" width="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="vothanhtin2001" width="70%"/>
     </td>
     <td>
       <p align="right"> 
