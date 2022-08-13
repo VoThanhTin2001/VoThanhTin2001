@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
 
-- 🌱 I’m currently learning **Vietnam military service**
+- 🌱 I’m currently **Vietnam military service** 2023-2025.
 
 
 ## 📫 How to reach me:
