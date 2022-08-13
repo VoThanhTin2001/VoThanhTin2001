@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Vietnam military service**
 
 
 ## 📫 How to reach me:
