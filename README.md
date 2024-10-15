@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
 
-- 🌱 I’m currently **Vietnam military service** 2024-2026.
+- 🌱 I’m currently **KHAI NGUYEN COMPUTER** 2023 - present.
 
 
 ## 📫 How to reach me:
@@ -14,7 +14,7 @@
         <a href="https://www.messenger.com/t/100024163622231" alt="Messenger">   
         <img src="https://media.giphy.com/media/fy8mDHil1yK1l0KmMN/giphy.gif" alt="textme" width="5%"/>
         </a>
-      </p>
+      </p>https://github.com/VoThanhTin2001/VoThanhTin2001/blob/main/README.md
     </td>
     
 <p align="center">
