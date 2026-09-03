@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tin</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vothanhtin2001" alt="vothanhtin2001" /> <img src="https://badges.pufler.dev/repos/VoThanhTin2001" alt="vothanhtin2001" /> </p>
-
-- ✍ I'm a student of: [LY TU TRONG COLLEGE](https://www.lttc.edu.vn/) (LTTC).
-
-- 🌱 I’m currently **KHAI NGUYEN COMPUTER** 2023 - present.
-
 
 ## 📫 How to reach me:
 <td>
@@ -14,7 +6,7 @@
         <a href="https://www.messenger.com/t/100024163622231" alt="Messenger">   
         <img src="https://media.giphy.com/media/fy8mDHil1yK1l0KmMN/giphy.gif" alt="textme" width="5%"/>
         </a>
-      </p>https://github.com/VoThanhTin2001/VoThanhTin2001/blob/main/README.md
+      </p>
     </td>
     
 <p align="center">
@@ -34,20 +26,10 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-
-## Skills:
-<p align="center" >
-  <img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
-</p>
-
 <table style="width:200%; height:200%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="vothanhtin2001" width="70%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=vothanhtin2001&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="vothanhtin2001" width="70%"/>
-    </td>
-    <td>
-      <p align="right"> 
+      <p align="center"> 
         <img src="https://media3.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" alt="dev" width="100%" height="100%" />
   </tr>
 </table>
